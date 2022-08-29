@@ -1,0 +1,196 @@
+
+
+
+html template
+
+<!doctype html>   for showing latest update html 
+
+<meta charset="UTF-8"> use for make available all language
+
+<meta name="viewport" content="width=device-width,initial-scale1.-0"> must use fot responsivbe
+
+
+element-{start+ending}
+tag-{only start}
+attribute{.....} use for different type of command 
+
+
+
+ img-cnn or download
+
+ cnn means direct link
+
+ download
+
+<img- download
+	alt + src >
+
+	file patrh
+	../ means back page than path
+	/ means forward page than road directory than path
+
+
+
+
+
+	<a>
+	link
+	internal-home contact    <a href="about.html">ABOUT </a>
+	external-fb        <a href="https://hggtjjugyuuh.com" target="_blank"Facebook preofile</a>
+
+
+
+	html code comment <!-- --> means hidden
+
+abbr   <h3 title="world heath organisation">WHO</h3> means double meaning
+
+<strong></strong> means importans on that  
+
+
+css           css              css               css 
+
+different type of css
+
+tag
+element (normal)
+class (.)
+id (#)
+
+css code comenting /*  */ means css hiding  
+
+measurement unit
+
+
+px nose on screen,mosrt used
+pt pen point
+1 em= 16 px
+1 rem=16 px ,adjust on screen
+% 
+
+
+color combination
+solid
+hex most used
+rgb red green blue (000000)
+rgb   means transparation (o-1) most used
+
+mergin >>external work
+means make distance for two different shape
+padding >>internal work 
+
+margin:100 px;top,bottom,left ,rigt
+margin:100,50 px;top-bottom,left-right
+margin:100,50,20 px;top,left-right,bottom
+margin:100,50,20,10 px,top,right,bottom,left
+
+
+box model concept
+
+
+
+<link rel="stylesheet" href=css/stytle.css">
+
+
+
+h3{
+	font-size:  50px;
+	border: 5px solid red;
+	border-radius:15px ;
+
+}
+.border{
+	border: 3px dashed green;
+}
+.bg{
+	background-color:yellow ;
+}
+
+
+display  display  display
+
+block level and inline element
+
+block - they block full line
+inline - 2/3 element in one line
+
+display ; none/block/inline/inline block
+
+
+
+most impotant things in html final project--------------------
+
+
+{code commenting}
+hide kora thakbe,eyta thkle cooding e khujte easy hbe+must use
+
+{sementic markup}
+nam porey bujhte para eder kajh ki
+header,footer,section,article,aside,nav,
+
+
+{non sementic markup}
+esb dye je kono kaj kora jay
+
+div,span(ek line er mdhe alada word ke dhorar jonne)
+
+{re use block}
+wrapper
+
+{code secquence}
+seerial e kaj kora
+
+ css code commenting
+
+ {}
+ .container
+
+ margin
+ padding
+
+ width
+ height
+
+ font-family
+ font size
+ font weight
+ color
+
+ {}
+
+ mathay rkhte hbe--------
+ ui ux
+ seo frriendly
+ speed opt
+ bug free
+ markup val----check
+
+ section define
+ layout define
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
